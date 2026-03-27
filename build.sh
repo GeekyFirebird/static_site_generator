@@ -1,1 +1,1 @@
-python3 src/main.py "/GeekyFirebird/"
+python3 src/main.py "/static_site_generator/"
